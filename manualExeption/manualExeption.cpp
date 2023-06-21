@@ -16,4 +16,6 @@ int main()
 		/*jika selain integer maka block ini akan dieksekusi*/
 		cout << "default Pengecualian diexsekusi" << endl;
 	}
+
+	return 0;
 }
